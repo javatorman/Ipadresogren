@@ -1,0 +1,10 @@
+C:\Users\SamedDemir\source\repos\Ipadresiogren\Ipadresiogren\obj\Debug\Ipadresiogren.csprojResolveAssemblyReference.cache
+C:\Users\SamedDemir\source\repos\Ipadresiogren\Ipadresiogren\obj\Debug\Ipadresiogren.Form1.resources
+C:\Users\SamedDemir\source\repos\Ipadresiogren\Ipadresiogren\obj\Debug\Ipadresiogren.Properties.Resources.resources
+C:\Users\SamedDemir\source\repos\Ipadresiogren\Ipadresiogren\obj\Debug\Ipadresiogren.csproj.GenerateResource.Cache
+C:\Users\SamedDemir\source\repos\Ipadresiogren\Ipadresiogren\obj\Debug\Ipadresiogren.csproj.CoreCompileInputs.cache
+C:\Users\SamedDemir\source\repos\Ipadresiogren\Ipadresiogren\bin\Debug\Ipadresiogren.exe.config
+C:\Users\SamedDemir\source\repos\Ipadresiogren\Ipadresiogren\bin\Debug\Ipadresiogren.exe
+C:\Users\SamedDemir\source\repos\Ipadresiogren\Ipadresiogren\bin\Debug\Ipadresiogren.pdb
+C:\Users\SamedDemir\source\repos\Ipadresiogren\Ipadresiogren\obj\Debug\Ipadresiogren.exe
+C:\Users\SamedDemir\source\repos\Ipadresiogren\Ipadresiogren\obj\Debug\Ipadresiogren.pdb
